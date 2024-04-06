@@ -13,5 +13,5 @@ def factorial(numero):
         numero -= 1
     return factorial
 
-def division(a,b):
+def division(a,b,c):
   return a/b
