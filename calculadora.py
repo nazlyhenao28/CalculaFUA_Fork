@@ -9,3 +9,6 @@ def factorial(numero):
         factorial = factorial * numero
         numero -= 1
     return factorial
+
+def division(a,b):
+  return a/b
